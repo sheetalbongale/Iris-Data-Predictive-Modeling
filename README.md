@@ -1,10 +1,10 @@
-# Basic Predictive-Modeling on Iris Data-set
+# Basic Predictive Modeling on Iris Data-set
 
 ![iris-image](img/iris-species.png)
 
 Build and test multiple sci-kit learn machine learning models to predict species from flower measurements.
 
-### Data-Set
+## Data-Set
 The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other. 
 
 Predicted attribute: class of iris plant. 
@@ -16,13 +16,13 @@ This is an exceedingly simple domain.
 2. sepal width in cm 
 3. petal length in cm 
 4. petal width in cm 
-5. class: 
+5. Species class: 
 - Iris Setosa 
 - Iris Versicolour 
 - Iris Virginica
 
-### Technologies and Libraries
-Following s a list of the Python SciPy libraries used for this project:
+## Technologies and Libraries
+Following is a list of the Python libraries used for this project:
 ```
 - sklearn
 - scipy
@@ -31,8 +31,8 @@ Following s a list of the Python SciPy libraries used for this project:
 - pandas
 ```
 
-### Machine Learning Algorithms
-I explored the following 6 different algorithms from sci-kit learn:
+## Machine Learning Algorithms
+I explored the following 7 different algorithms from sci-kit learn:
 
 - Logistic Regression (LR)
 - Linear Discriminant Analysis (LDA)
@@ -40,9 +40,10 @@ I explored the following 6 different algorithms from sci-kit learn:
 - Classification and Regression Trees (CART).
 - Gaussian Naive Bayes (NB).
 - Support Vector Machines (SVM).
+- Gradient Boosting Classifier(GB).
 
 This is a good mixture of simple linear (LR and LDA), nonlinear (KNN, CART, NB and SVM) algorithms.
 
-### Conclusion:
+## Conclusion:
 It looks like Support Vector Machines (SVM) has the largest estimated accuracy score at about 0.98 or 98%.
 
