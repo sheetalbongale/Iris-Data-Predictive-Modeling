@@ -17,9 +17,9 @@ This is an exceedingly simple domain.
 3. petal length in cm 
 4. petal width in cm 
 5. class: 
--- Iris Setosa 
--- Iris Versicolour 
--- Iris Virginica
+- Iris Setosa 
+- Iris Versicolour 
+- Iris Virginica
 
 ### Technologies and Libraries
 Following s a list of the Python SciPy libraries used for this project:
