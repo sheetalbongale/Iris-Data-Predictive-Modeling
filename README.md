@@ -1,6 +1,6 @@
 # Basic Predictive-Modeling on Iris Data-set
 
-![iris-image]("img/iris-species.png")
+![iris-image](img/iris-species.png)
 
 Build and test multiple sci-kit learn machine learning models to predict species from flower measurements.
 
