@@ -45,5 +45,7 @@ I explored the following 7 different algorithms from sci-kit learn:
 This is a good mixture of simple linear (LR and LDA), nonlinear (KNN, CART, NB and SVM) algorithms.
 
 ## Conclusion:
-It looks like Support Vector Machines (SVM) has the largest estimated accuracy score at about 0.98 or 98%.
+* SVM - 97%
+* KNN - 100%
+
 
